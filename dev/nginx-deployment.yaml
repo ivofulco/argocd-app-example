@@ -19,7 +19,7 @@ data:
     <head><title>Teste ArgoCD</title></head>
     <body>
       <h1>Teste ArgoCD</h1>
-      <p>Teste do ArgoCD com Nginx</p>
+      <p>Teste do ArgoCD com Nginx, para apresentacao</p>
     </body>
     </html>
 ---
