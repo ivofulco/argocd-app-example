@@ -16,10 +16,10 @@ metadata:
 data:
   index.html: |
     <html>
-    <head><title>Teste ArgoCD</title></head>
+    <head><title>Teste GitOps</title></head>
     <body>
       <h1>Teste GitOps</h1>
-      <p>Teste do FluxCD com Nginx, para apresentacao</p>
+      <p>Teste do FluxCD com Nginx, green</p>
     </body>
     </html>
 ---
