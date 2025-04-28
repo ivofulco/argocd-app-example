@@ -44,7 +44,7 @@ spec:
       - name: nginx
         image: nginx:latest
         ports:
-        - containerPort: 80
+        - containerPort: 88
         volumeMounts:
         - name: config-volume
           mountPath: /usr/share/nginx/html
@@ -74,6 +74,6 @@ spec:
     app: nginx
   ports:
     - protocol: TCP
-      port: 80
+      port: 88
       targetPort: 88
   type: LoadBalancer
